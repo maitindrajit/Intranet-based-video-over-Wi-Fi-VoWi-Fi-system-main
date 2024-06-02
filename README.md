@@ -1,4 +1,4 @@
-Intranet-based-video-over-Wi-Fi-VoWi-Fi-system-main
+Intranet based video over Wi-Fi VoWi-Fi system main
 
 
 Project Overview
